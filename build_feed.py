@@ -91,4 +91,13 @@ def main():
     # Build XML string
     xml_output = build_rss_feed(all_items)
 
-    # Write the fil
+    #     # Write the file as feed.xml in the repo root
+    output_path = "feed.xml"
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(xml_output)
+
+    print(f"Created {output_path} with {len(all_items)} items.")
+
+if __name__ == "__main__":
+    main()
+
