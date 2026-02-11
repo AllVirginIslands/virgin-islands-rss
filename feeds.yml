@@ -1,0 +1,157 @@
+title: "All Virgin Islands: Tourism + History"
+description: "USVI + BVI tourism, beaches, restaurants, shopping, museums, and island history (auto-curated)."
+language: "en-us"
+max_items: 60
+
+# KEEP items only if they match at least one keyword
+keywords:
+  - beach
+  - beaches
+  - snorkeling
+  - snorkel
+  - dive
+  - diving
+  - museum
+  - museums
+  - history
+  - historic
+  - heritage
+  - fort
+  - ruins
+  - plantation
+  - national park
+  - trail
+  - hiking
+  - restaurant
+  - restaurants
+  - dining
+  - food
+  - rum
+  - bar
+  - beach bar
+  - shopping
+  - boutique
+  - market
+  - gallery
+  - art
+  - culture
+  - festival
+  - itinerary
+  - guide
+  - things to do
+  - charter
+  - sailing
+  - marina
+  - resort
+  - villa
+  - beach club
+  - the baths
+  - virgin gorda
+  - anegada
+  - jost van dyke
+  - tortola
+  - st croix
+  - st thomas
+  - st john
+  - usvi
+  - bvi
+
+# HARD BLOCKLIST to avoid local news/crime/politics
+exclude_keywords:
+  - shooting
+  - murder
+  - homicide
+  - assault
+  - robbery
+  - burglary
+  - fraud
+  - arrest
+  - police
+  - court
+  - senator
+  - governor
+  - legislation
+  - election
+  - protest
+  - accident
+  - fire
+  - hospital
+
+sources:
+  # --- USVI tourism (scrape) ---
+  - name: "GoToStCroix Blog"
+    type: "scrape"
+    list_url: "https://www.gotostcroix.com/st-croix-blog/"
+    item_link_selector: "a[href*='/st-croix-blog/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
+  # GoToStCroix blog URL reference
+  # https://www.gotostcroix.com/st-croix-blog/  (supports tourism posts with imagery)
+  #  not used here because this is config-only; see citations below.
+
+  - name: "Uncommon Caribbean — USVI Archive"
+    type: "scrape"
+    list_url: "https://www.uncommoncaribbean.com/destination/u-s-virgin-islands/"
+    item_link_selector: "a[href*='uncommoncaribbean.com/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
+
+  # --- BVI tourism (scrape) ---
+  - name: "BVI Tourism — Stories"
+    type: "scrape"
+    list_url: "https://www.bvitourism.com/messages"
+    item_link_selector: "a[href*='/messages/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "main"
+    max_from_source: 20
+
+  - name: "Uncommon Caribbean — BVI Archive"
+    type: "scrape"
+    list_url: "https://www.uncommoncaribbean.com/destination/british-virgin-islands/"
+    item_link_selector: "a[href*='uncommoncaribbean.com/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
+
+  # --- High-volume tourism (NOT local news): charter + sailing guides (scrape) ---
+  - name: "Sunsail — BVI Blog Tag"
+    type: "scrape"
+    list_url: "https://www.sunsail.com/blog/tag/british-virgin-islands"
+    item_link_selector: "a[href*='/blog/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
+
+  - name: "Dream Yacht Charter — BVI Series"
+    type: "scrape"
+    list_url: "https://www.dreamyachtcharter.com/blog/sailing-the-bvi-series/"
+    item_link_selector: "a[href*='dreamyachtcharter.com/blog/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
+
+  - name: "The Moorings — BVI Blog"
+    type: "scrape"
+    list_url: "https://www.moorings.com/blog/explore-the-british-virgin-islands"
+    item_link_selector: "a[href*='/blog/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
+
+  - name: "BVI Sail — Sightseeing"
+    type: "scrape"
+    list_url: "https://www.bvisail.com/category/bvi-activities/bvi-sightseeing/"
+    item_link_selector: "a[href*='bvisail.com/']"
+    item_title_selector: "h1"
+    item_date_selector: "time"
+    item_summary_selector: "article"
+    max_from_source: 20
