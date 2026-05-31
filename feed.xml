@@ -5,7 +5,7 @@
     <description>USVI + BVI tourism, beaches, restaurants, shopping, museums, and island history (auto-curated).</description>
     <language>en-us</language>
     <link>https://allvirginislands.com/</link>
-    <lastBuildDate>Sat, 30 May 2026 22:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 11:09:35 +0000</lastBuildDate>
     <item>
       <title>Chartering</title>
       <link>https://www.dreamyachtcharter.com/blog/category/chartering/</link>
@@ -14,16 +14,16 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Croatia</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/mediterranean/croatia/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/mediterranean/croatia/</guid>
+      <title>Mediterranean</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/mediterranean/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/mediterranean/</guid>
       <description>15 May 2026, Chartering , Croatia , Mediterranean The photography lover’s guide to Croatia: Top 15 Croatia photo spots to add to your sailing itinerary</description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mediterranean</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/mediterranean/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/mediterranean/</guid>
+      <title>Croatia</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/mediterranean/croatia/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/mediterranean/croatia/</guid>
       <description>15 May 2026, Chartering , Croatia , Mediterranean The photography lover’s guide to Croatia: Top 15 Croatia photo spots to add to your sailing itinerary</description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -49,6 +49,13 @@
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Blog</title>
+      <link>https://www.dreamyachtcharter.com/blog/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/</guid>
+      <description>25 February 2026, Chartering , Italy , Lifestyle , Mediterranean , Snorkeling Sailing Italy: A Journey Through Naples &amp; Sicily Italy is best discovered from the water. From volcanic islands and pastel fishing villages to ancient ruins and unforgettable cuisine, a yacht charter in southern Italy unlocks experiences that simply …</description>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Best Snorkeling Spots in the Caribbean</title>
       <link>https://www.moorings.com/blog/best-snorkeling-in-the-caribbean</link>
       <guid>https://www.moorings.com/blog/best-snorkeling-in-the-caribbean</guid>
@@ -70,6 +77,13 @@
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Crewed</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/chartering/crewed/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/chartering/crewed/</guid>
+      <description>28 January 2026, Chartering , Crewed , Lifestyle Private Sailing, Made Simple: How Dream Yacht’s Easy Crewed Charters Work</description>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Lifestyle</title>
       <link>https://www.dreamyachtcharter.com/blog/category/lifestyle/</link>
       <guid>https://www.dreamyachtcharter.com/blog/category/lifestyle/</guid>
@@ -81,20 +95,6 @@
       <link>https://www.dreamyachtcharter.com/blog/category/caribbean/</link>
       <guid>https://www.dreamyachtcharter.com/blog/category/caribbean/</guid>
       <description>22 January 2026, Caribbean , Chartering , Lifestyle Skip the Crowds, Stay Longer, Sail Smarter: Why Visit The Caribbean in Low Season</description>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian Ocean</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/indian-ocean/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/indian-ocean/</guid>
-      <description>22 January 2026, Indian Ocean , Mediterranean , Seychelles Beat The Crowds: The Smart Way to Sail the Mediterranean</description>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seychelles</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/indian-ocean/seychelles/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/indian-ocean/seychelles/</guid>
-      <description>22 January 2026, Indian Ocean , Mediterranean , Seychelles Beat The Crowds: The Smart Way to Sail the Mediterranean</description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -112,13 +112,6 @@
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bareboat</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/chartering/bareboat/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/chartering/bareboat/</guid>
-      <description>17 October 2025, Bareboat , Caribbean , Chartering Why now is the best time to charter a yacht in the Caribbean</description>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Holiday Gift Guide for Boat Lovers</title>
       <link>https://www.moorings.com/blog/holiday-gift-guide</link>
       <guid>https://www.moorings.com/blog/holiday-gift-guide</guid>
@@ -133,18 +126,18 @@
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Snorkeling</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/lifestyle/snorkeling/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/lifestyle/snorkeling/</guid>
+      <title>Bahamas</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/bahamas/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/bahamas/</guid>
       <description>31 July 2025, Bahamas , Chartering , Diving , Fishing , Lifestyle , Non classé , Snorkeling , Sustainability Discover the Remote National Parks of the Bahamas: The Abacos &amp; Exumas</description>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Greece</title>
-      <link>https://www.dreamyachtcharter.com/blog/category/mediterranean/greece/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/category/mediterranean/greece/</guid>
-      <description>10 July 2025, Greece , Mediterranean , Sustainability Sailing with Purpose: Dream Yacht Supports Sustainable Sailing Greece</description>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Sustainability</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/sustainability/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/sustainability/</guid>
+      <description>31 July 2025, Bahamas , Chartering , Diving , Fishing , Lifestyle , Non classé , Snorkeling , Sustainability Discover the Remote National Parks of the Bahamas: The Abacos &amp; Exumas</description>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Discover New Horizons in the Caribbean: Your Bareboat Charter Adventure with Sunsail</title>
@@ -154,18 +147,32 @@
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>New BALI Catamarans arriving in the Seychelles</title>
-      <link>https://www.dreamyachtcharter.com/blog/new-catamarans-in-the-seychelles/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/new-catamarans-in-the-seychelles/</guid>
-      <description>As Dream Yacht’s first base location and founding sailing destination nearly 25 years ago, the Seychelles Islands hold a place of honor in the hearts and minds of our Dream Yacht Worldwide charter team. Now we’re pleased to announce the arrival of two brand new catamarans soon to be available for charter in this very special island paradise. The new yachts, BALI 4.4 and BALI 4.6 catamarans, are now in transit arriving in December and available for charters from December 14, 2024. BALI yachts are one of our most sought-after charter brands, making these new 2024 “Super Premier” catamarans an exciting addition to our Seychelles fleet. About the new BALI Catamarans The BALI 4.4 is a 44-foot 4-cabin/4-bath catamaran, perfect for families or groups of friends up to 10 people. The 5-cabin/4-bath BALI 4.6 is 46-feet, and is well-suited for larger groups or for allowing space for a hired skipper. Both yachts feature the popular “garage-door” style pivoting door that creates an open air salon that lends itself to comfortable indoor/outdoor living. Both yachts also feature spacious flybridge lounge areas for comfortable seating with a view while underway, or for sunset gatherings. Sailing the Seychelles Islands We began our first Dream Yacht charters in the Seychelles for good reason. This Indian Ocean Island chain is arguably one of the most beautiful sailing grounds on the planet, with 41 of the earth’s oldest granite islands and 74 low-lying islands surrounded by brilliant blue waters and pristine reefs. For nature lovers, the bird watching, hiking, and snorkeling are unmatched. And a visit to the protected island of Curieuse to observe the gentle giant Aldabra tortoises and unique coco de mer palms is a must. Underscoring Dream Yacht’s strong commitment to delivering top sailing opportunities in the beautiful Seychelles, we will welcome additional BALI yachts – 2 BALI 4.8 catamarans – in the Seychelles late in 2025. Plan now for your dream Seychelles sailing vacation to secure one of these stunning new sailing catamarans. Get in touch with a Dream Yacht charter planner today! Share: Link Copied to Clipboard</description>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <title>Ownership</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/ownership/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/ownership/</guid>
+      <description>25 April 2024, Ownership Have you considered owning a charter yacht?</description>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>7 Incredible, Lesser-Known Places In Greece To Visit</title>
-      <link>https://www.dreamyachtcharter.com/blog/greece-places-to-visit/</link>
-      <guid>https://www.dreamyachtcharter.com/blog/greece-places-to-visit/</guid>
-      <description>An azure paradise awaits you on a Greece sailing vacation . From sun-kissed shores and cerulean waters to alluring historical landmarks, the country’s 6,000 islands create the perfect backdrop for a once-in-a-lifetime holiday. The list of Greece places to see is nearly infinite, but with a yacht charter, exploring some of its hidden gems is easy. Ready to plan the ultimate off-the-beaten-track itinerary? With our Greece yacht charter bases in Athens , Lavrion , Kos , Lefkas , and Corfu , the only limit is your imagination! We’ve unearthed 7 secret spots where tourists are few and the possibilities are endless. Keep reading to get inspired for your one-of-a-kind Greece sailing vacation. 7 Lesser-Known Places In Greece To Visit Spetses: small and exclusive While nearby Hydra has long stolen the spotlight in the Sporadic islands, the lesser known Greek island of Spetses is a destination worth a second look. Full of neoclassical mansions, scenic landscapes, cobblestone streets and secluded swimming spots to while away the day — Spetses could just steal your heart. “The island of perfumes”, as it was named by the Venetians or “Pityousa” (which in ancient Greek means “full of pine-trees”), is a beautiful, car-free island (only taxis and delivery vehicles are allowed) with numerous wonderful sandy beaches and lovely secluded bays. Discover Agia Paraskevi, with its picturesque church – considered by many to be the most beautiful beach on the island. The island is home to several historical landmarks, including the Poseidonion Grand Hotel and the Bouboulina Museum, which offer insight into Spetses’ rich history. Stroll the old port, on the waterfront, and experience the freshest fish and seafood at this traditional taverna. Lake Vouliagmeni: Athens’ most underrated day trip Another unique destination to add to the beginning or end of your Greece sailing vacation is Lake Vouliagmeni. This haven of natural health, spa, and mineral baths has been healing visitors for thousands of years! You can visit it on a day trip from Athens , stop by from nearby islands, or take advantage of local 5-star accommodations. Fed by underground currents filtered through Mount Hymettus, the lagoon is known for its ancient hydrotherapy and physiotherapy properties. Eczema, neuralgia, headaches, arthritis, lumbago, sciatica, and many other ailments are all said to be healed by the waters. You can swim in the lake, lounge on the shores, or stop by a spa to take full advantage of the lake’s magic. Although it’s easy to overlook mainland adventures and dive head-first into Greece’s best sightseeing places on the island, you won’t regret visiting Lake Vouliagmeni. Tinos: the Hidden heart of the Cyclades The Cyclades is the cluster of Greek southeast of the mainland. You’ve already heard of Santorini, Naxos, and Mykonos, but the Cyclades are also home to Tinos, a pristine, untouched paradise. Writers, poets, philosophers, and religious pilgrims have long been attracted to Tinos for its tranquil landscapes and peaceful charm. Christian Orthodox Greeks consider the island sacred, but any visitor will be enchanted by its quiet beauty. If you’re on the hunt for empty beaches, Isternia, Apigania, and Koumelas will be your favorites. Rohari is a livelier option with more restaurants and bars. A bit more inland, you’ll find architecturally inspiring villages like Pyrgos, known as the ‘marble heart’ of Tinos. For a lesson in art history, stop by Pyrgos’ Museum of Marble Crafts or the historic home of world-famous sculptor Yannoulis Chalepas. For a taste of authentic Greek culture and history, it doesn’t get better than Tinos! The Diapontia Islands: Off Corfu’s beaten path Corfu is a hub for tourists and a Greece yacht charter location with Dream Yacht Worldwide, but hidden gems are abundant in the region. Take Othoni, Erikoussa, and Mathraki, three nearby islands you can visit on day trips with a Greece yacht charter! Tranquil, picturesque, and free from major tourism, th…</description>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Electric Sailing</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/electric-sailing/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/electric-sailing/</guid>
+      <description>04 March 2024, Chartering , Electric Sailing , Electric Sailing , Mediterranean , Ownership , Sustainability Experience electric sailing in the Mediterranean</description>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electric Sailing</title>
+      <link>https://www.dreamyachtcharter.com/blog/category/sustainability/electric-sailing-sustainability/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/category/sustainability/electric-sailing-sustainability/</guid>
+      <description>04 March 2024, Chartering , Electric Sailing , Electric Sailing , Mediterranean , Ownership , Sustainability Experience electric sailing in the Mediterranean</description>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experience electric sailing in the Mediterranean</title>
+      <link>https://www.dreamyachtcharter.com/blog/electric-yachts-in-the-mediterranean/</link>
+      <guid>https://www.dreamyachtcharter.com/blog/electric-yachts-in-the-mediterranean/</guid>
+      <description>Now you can experience the joys of “silent sailing” from aboard our newest hybrid electric yachts in many of our stunning Mediterranean destinations. Our new electric yachts feature not only the latest in creature comforts and state of the art technology, but also deliver big on reducing carbon emissions – and notably for charterers – reducing the cost of fuel for your sailing vacation! Getting greener every day The new electric yachts based in the Mediterranean are a tangible realization of Dream Yacht’s commitment to sustainability and reducing ecological impact. More Fountaine Pajot and Dufour electric yachts are already underway, with ongoing significant fleet investments toward the ambition of an all-electric charter yacht offering and zero carbon emissions. Our Mediterranean hybrid electric yachts Choose from three outstanding new yachts – the impressive Fountaine Pajot Aura 51 Smart Electric and Elba 45 Smart Electric catamarans, or the sleek Dufour 530 Smart Electric sailing yacht. All are designed and manufactured to exacting standards of comfort and efficiency. A key difference in the electric boating experience includes cruising under power in silence, allowing you to more fully enjoy surrounding natural environments during your sailing vacation. The powerful, efficient and quiet electric motors are custom designed, with lithium technology battery banks for storing energy. When under sail, the speed of the boat along with the motors in reverse flow is used to produce clean, stored energy. This “hydroelectric” energy generation can recharge the batteries, which can then provide power for hours of silent motor cruising, or for enjoying time at anchor without noise from the generator. See where our hybrid electric yachts can take you! Discover the sophisticated French Riviera Dufour 530 Smart Electric yachts A Côte d’Azur yacht charter offers an unforgettable experience for those seeking to explore this stunning region. From aboard your Dufour 530 Smart Electric yacht, visit multiple destinations in one trip without the hassle of changing hotels or transportation. From our base location in Port Pin Rolland, sail to glamorous ports, beautiful beaches, and picturesque coastal towns. Discover the peaceful island paradise of Porquerolles, where cars are forbidden and the only way to get around is by bike, boat or on foot – perfect for slowing down and exploring the lovely village and harbor. Be sure to pick up a mooring in the Baie des Canebiers, where you can rub shoulders with the jet set in the old port of Saint-Tropez. This glamorous town is known for its picturesque harbor, upscale boutiques, and luxurious nightlife. Visit the Citadel de Saint-Tropez for panoramic views of the town and enjoy the famous beach clubs Sail in stunning Sardinia Dufour 530 monohull &amp; Elba 45 catamaran Smart Electric yachts A yacht charter in Sardinia offers a unique and unforgettable experience for those looking to explore the stunning coastline and crystal-clear waters of this Mediterranean island. Sailing from our base location in Olbia, cruise the stunning Costa Smeralda discovering secluded coves, hidden beaches, and charming coastal towns that are only accessible by boat. An electric yacht can allow you to be silently immersed in this breathtaking natural beauty. For the jet set crowd, the luxurious resort town Porto Cervo will not disappoint with its upscale marina, designer boutiques, and exclusive clubs. And be sure to cruise the famed La Maddalena Archipelago, a stunning group of islands with pristine beaches, crystal-clear waters, and great snorkeling spots. Explore Naples &amp; the Amalfi Coast by yacht Aura 51 Smart Electric yachts Board the impressive Aura 51 Smart Electric in Naples and discover the perfect blend of culture, history, and natural beauty. Located in the stunning Amalfi Coast, Naples is surrounded by crystal-clear waters and picturesque towns that are waiting to be discovered. The azure waters of the Tyrrhenian Sea p…</description>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Italy</title>
